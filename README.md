@@ -5,7 +5,8 @@ A simple python script that takes grades in the form of .txt and converts it int
 - Python
 
 # Usage
-Your Student Directory must have this format:
+Your Student Directory must have this format: \
+<img src="./directory.JPG" alt="search-gif" width="500"/>
 
 
 Within a directory filled with your Student's assignment folders, make this call in your terminal:
@@ -15,5 +16,7 @@ python3 makeJSON.py
 This will create both a JSON file and an HTML to display the JSON.
 
 Sample:
+\
+<img src="./output.JPG" alt="search-gif" width="500"/>
 
 
